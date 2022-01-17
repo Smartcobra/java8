@@ -1,4 +1,4 @@
-package in.practice;
+package in.practice.Trader;
 
 public class Transaction {
     private Trader trader;

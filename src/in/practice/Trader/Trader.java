@@ -1,4 +1,4 @@
-package in.practice;
+package in.practice.Trader;
 
 public class Trader {
     private  String name;

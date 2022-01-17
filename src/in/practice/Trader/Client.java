@@ -1,8 +1,10 @@
-package in.practice;
+package in.practice.Trader;
+
+import in.practice.Trader.Trader;
+import in.practice.Trader.Transaction;
 
 import java.util.*;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class Client {
     public static void main(String[] args) {
